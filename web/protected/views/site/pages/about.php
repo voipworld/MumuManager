@@ -5,6 +5,9 @@ $this->breadcrumbs=array(
 );
 ?>
 <h1>About</h1>
-
-<p>This is a "static" page. You may change the content of this page
-by updating the file <tt><?php echo __FILE__; ?></tt>.</p>
+<p>MumuManager Version 1.0Alpha</p>
+<p>Developed by Tayeb Meftah</p>
+<ul>
+<li>Email: Tayeb (DOT) Meftah (A|T) g(Mail).Com</li>
+<li>Phone: +213-660-347746</li>
+</ul>
